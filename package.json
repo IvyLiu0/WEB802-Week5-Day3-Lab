@@ -1,0 +1,17 @@
+{
+  "name": "web802-week5-day3-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass -o css/ css/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^8.0.0",
+    "parallelshell": "^3.0.2",
+    "sass": "^1.60.0"
+  }
+}
